@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-export 'package:barcode/barcode.dart';
+//export 'package:barcode/barcode.dart';
 
 export 'src/widgets/annotations.dart';
-export 'src/widgets/barcode.dart';
+//export 'src/widgets/barcode.dart';
 export 'src/widgets/basic.dart';
 export 'src/widgets/border_radius.dart';
 export 'src/widgets/box_border.dart';

@@ -99,15 +99,15 @@ void main() {
     );
   });
 
-  test('SVG Widgets Barcode', () {
-    pdf.addPage(
-      Page(
-        build: (context) => SvgImage(
-          svg: Barcode.isbn().toSvg('135459869354'),
-        ),
-      ),
-    );
-  });
+  // test('SVG Widgets Barcode', () {
+  //   pdf.addPage(
+  //     Page(
+  //       build: (context) => SvgImage(
+  //         svg: Barcode.isbn().toSvg('135459869354'),
+  //       ),
+  //     ),
+  //   );
+  // });
 
   test('SVG Widgets BoxFit.cover and alignment', () {
     const svg =

@@ -66,7 +66,7 @@ void main() {
   roll.main();
   ttf.main();
   type1.main();
-  widget_barcode.main();
+  //widget_barcode.main();
   widget_basic.main();
   widget_chart.main();
   widget_clip.main();
